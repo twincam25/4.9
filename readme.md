@@ -7,9 +7,9 @@ LICENSE: [MIT](/license.md)
 ---
 
 ## Содержание:
-### 1. Главная [**Главная**](/4.9/index.html)
-### 2. О нас [**О нас**](/4.9/pages/about.html)
-### 3. Контакты [**Контакты**](/4.9/pages/contacts.html)
+### 1. Главная [**Главная**](index.html)
+### 2. О нас [**О нас**](pages/about.html)
+### 3. Контакты [**Контакты**](pages/contacts.html)
 
 
 
